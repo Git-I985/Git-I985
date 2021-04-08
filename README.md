@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://img.shields.io/badge/-JavaScript-black/?style=for-the-badge&logo=javascript&color=fedcba&labelColor=black)
+![](https://img.shields.io/badge/PHP-PHP_7--8-black/?style=for-the-badge&color=white&labelColor=000)
+![](https://img.shields.io/badge/-Laravel-black/?style=for-the-badge&color=f2f2f2&labelColor=ff2626&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/-NPM-black/?style=for-the-badge&color=white&labelColor=ff2626&logo=npm)
+![](https://img.shields.io/badge/-WSL-black/?style=for-the-badge&color=gray&labelColor=black&logo=Windows-Terminal)
 
-<!--
-**Git-I985/Git-I985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/SQL-PostgreSQL-black/?style=for-the-badge&color=bafee1&labelColor=000000)
+![](https://img.shields.io/badge/-Node.js-black/?style=for-the-badge&color=white&labelColor=black&logo=Nodemon)
+![](https://img.shields.io/badge/-VSCode-black/?style=for-the-badge&logo=Visual-Studio-Code&color=baf0fe&labelColor=000&logoColor=blue)
+![](https://img.shields.io/badge/-Repl.it-black/?style=for-the-badge&color=white&labelColor=black&logo=repl.it&logoColor=blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-PhpStorm-black/?style=for-the-badge&color=f8bafe&labelColor=black&logo=phpstorm&logoColor=white)
+![](https://img.shields.io/badge/-Git-black/?style=for-the-badge&color=fee3ba&labelColor=black&logo=git&logoColor=ff8000)
+![](https://img.shields.io/badge/-GitHub-black/?style=for-the-badge&color=f2f2f2&labelColor=black&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-React.js-black/?style=for-the-badge&color=blue&labelColor=black&logo=react&logoColor=blue)
+![](https://img.shields.io/badge/-Vue.js-black/?style=for-the-badge&color=white&labelColor=black&logo=vue.js&logoColor=4FC08D)
