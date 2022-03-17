@@ -22,3 +22,12 @@
 VSCode
 JetBrains Mono
 TokyoNight 
+
+## Projects in which I participated
+
+- https://rc-technologies.com/ primary sole frontend developer
+- https://primexbt.com frontend developer, long support
+- https://turboxbt.com frontend developer, long support
+- https://primeads.io/ primary sole frontend developer 
+- https://www.amocrm.ru/ backend php developer
+- https://whale-ds.com/ little support
