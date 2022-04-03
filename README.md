@@ -31,3 +31,5 @@ TokyoNight
 - https://primeads.io/ primary sole frontend developer 
 - https://www.amocrm.ru/ backend php developer
 - https://whale-ds.com/ little support
+- https://motorola-license.ru/ PHP developer support
+- https://radiosoftware.online/ PHP, Apache SSI (Server Side Includes)
