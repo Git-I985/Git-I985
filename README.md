@@ -29,7 +29,7 @@ TokyoNight
 - https://primexbt.com frontend developer, long support
 - https://turboxbt.com frontend developer, long support
 - https://primeads.io/ primary sole frontend developer 
-- https://www.amocrm.ru/ backend php developer
-- https://whale-ds.com/ little support
-- https://motorola-license.ru/ PHP developer support
-- https://radiosoftware.online/ PHP, Apache SSI (Server Side Includes)
+- https://www.amocrm.ru/ backend php developer, internal automation
+- https://whale-ds.com/ frontend support
+- https://motorola-license.ru/ PHP developer support, Tinkoff API integration
+- https://radiosoftware.online/ PHP, Apache SSI (Server Side Includes, Yandex Metrika, Google Analytics
