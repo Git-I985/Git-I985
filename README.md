@@ -23,7 +23,7 @@ VSCode
 JetBrains Mono
 TokyoNight 
 
-TypeScript, JavaScript, Node, PHP 7+, Linux, MJML, Laravel/Lumen, Express js, IoC Containers, OOP, Twig/Pebble, TOML/YAML, Git, Tailwind css, Netlify, Gatsby
+TypeScript, JavaScript, Node, PHP 7+, Linux, MJML, Laravel/Lumen, Express js, IoC Containers, OOP, Twig/Pebble, TOML/YAML, Git, Tailwind css, Netlify, Gatsby, SASS/SCSS
 
 ## Projects in which I participated
 
