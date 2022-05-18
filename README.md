@@ -36,3 +36,4 @@ TypeScript, JavaScript, Node, PHP 7+, Linux, MJML, Laravel/Lumen, Express js, Io
 - https://motorola-license.ru/ PHP developer support, Tinkoff API integration
 - https://radiosoftware.online/ PHP, Apache SSI (Server Side Includes, Yandex Metrika, Google Analytics
 - https://www.art-active.ru/ PHP, Wordpress, support
+- https://baksta.netlify.app/ Gatsby.js, React, DeFi, primary sole frontend developer
