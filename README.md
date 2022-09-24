@@ -1,39 +1,60 @@
-# Hi, Im Edward! 💻
+# 💻 👋
 
-<br>
+## Tooling
+- PhpStorm
+- WebStorm
+  - Theme: Darcula Darker
+- VsCode
+  - Font: JetBarins Mono
+  - Themes: TokyoNight/CodeSandbox
+- Chrome
+  - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) extension
+  - React Chrome Dev Tools 
+- iTerm
 
-![](https://img.shields.io/badge/-JavaScript-black/?style=for-the-badge&logo=javascript&color=fedcba&labelColor=black)
-![](https://img.shields.io/badge/PHP-PHP_7--8-black/?style=for-the-badge&color=white&labelColor=000)
-![](https://img.shields.io/badge/-Laravel-black/?style=for-the-badge&color=f2f2f2&labelColor=ff2626&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/-NPM-black/?style=for-the-badge&color=white&labelColor=ff2626&logo=npm)
-![](https://img.shields.io/badge/-WSL-black/?style=for-the-badge&color=gray&labelColor=black&logo=Windows-Terminal)
-
-![](https://img.shields.io/badge/SQL-PostgreSQL-black/?style=for-the-badge&color=bafee1&labelColor=000000)
-![](https://img.shields.io/badge/-Node.js-black/?style=for-the-badge&color=white&labelColor=black&logo=Nodemon)
-![](https://img.shields.io/badge/-VSCode-black/?style=for-the-badge&logo=Visual-Studio-Code&color=baf0fe&labelColor=000&logoColor=blue)
-![](https://img.shields.io/badge/-Repl.it-black/?style=for-the-badge&color=white&labelColor=black&logo=repl.it&logoColor=blue)
-
-![](https://img.shields.io/badge/-PhpStorm-black/?style=for-the-badge&color=f8bafe&labelColor=black&logo=phpstorm&logoColor=white)
-![](https://img.shields.io/badge/-Git-black/?style=for-the-badge&color=fee3ba&labelColor=black&logo=git&logoColor=ff8000)
-![](https://img.shields.io/badge/-GitHub-black/?style=for-the-badge&color=f2f2f2&labelColor=black&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-React.js-black/?style=for-the-badge&color=blue&labelColor=black&logo=react&logoColor=blue)
-![](https://img.shields.io/badge/-Vue.js-black/?style=for-the-badge&color=white&labelColor=black&logo=vue.js&logoColor=4FC08D)
-
-VSCode
-JetBrains Mono
-TokyoNight 
-
-TypeScript, JavaScript, Node, PHP 7+, Linux, MJML, Laravel/Lumen, Express js, IoC Containers, OOP, Twig/Pebble, TOML/YAML, Git, Tailwind css, Netlify, Gatsby, SASS/SCSS
+## Stack
+- JS ecosystem
+  - TypeScript / JavaScript / Node
+  - Express js
+  - Gatsby
+  - React
+  - Vue
+  - Google App Script
+- PHP 7+ 
+  - ~ Laravel / Lumen / Symfony
+- Linux / OSX / Windows
+- MJML
+- Twig/Pebble 
+- TOML/YAML
+- Git
+  - GitHub / Bitbucket/ GitLab
+- CSS
+  - Tailwind
+  - Css modules
+  - SASS/SCSS
+- Python ~
+- Deployment
+  - Netlify
+  - Google Cloud Platform
+- Shell
+  - Fish
+- SQL
+  - MySQL
+  - MSSQL
+- Pascal .NET
 
 ## Projects in which I participated
 
-- https://rc-technologies.com/ primary sole frontend developer
-- https://primexbt.com frontend developer, long support
-- https://turboxbt.com frontend developer, long support
-- https://primeads.io/ primary sole frontend developer 
-- https://www.amocrm.ru/ backend php developer, internal automation
-- https://whale-ds.com/ frontend support
-- https://motorola-license.ru/ PHP developer support, Tinkoff API integration
-- https://radiosoftware.online/ PHP, Apache SSI (Server Side Includes, Yandex Metrika, Google Analytics
-- https://www.art-active.ru/ PHP, Wordpress, support
-- https://baksta.com/ Gatsby.js, React, DeFi, primary sole frontend developer
+| Project                                                           | Role                                                                                |
+|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [Release Candidate](https://rc-technologies.com/)                 | main frontend developer                                                             |
+| [PrimeXBT](https://primexbt.com)                                  | frontend developer, long support                                                    |
+| [TurboXBT](https://turboxbt.com)                                  | frontend developer, long support                                                    |
+| [PrimeAds](https://primeads.io/)                                  | main frontend developer                                                             | 
+| [amoCRM](https://www.amocrm.ru/)                                  | backend php developer, internal automation                                          |
+| [Whale Digiat Services](https://whale-ds.com/)                    | frontend support                                                                    |
+| [Motorola License](https://motorola-license.ru/)                  | PHP developer support, Tinkoff API integration                                      |
+| [RADIOSOFTWARE.ONLINE](https://radiosoftware.online/)             | PHP, Apache SSI (Server Side Includes, Yandex Metrika, Google Analytics, FTP Server |
+| [Art-Active](https://www.art-active.ru/)                          | PHP, Wordpress, support                                                             |
+| [Baksta](https://baksta.com/)                                     | Gatsby.js, React, SSG, DeFi, main frontend developer, Crypto                        |
+| [PrimeXBT Start](https://benevolent-crostata-7c7920.netlify.app/) | Gatsby.js, React,  SSG, DeFi, main frontend developer                               |
