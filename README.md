@@ -18,8 +18,12 @@
   - Express js
   - Gatsby
   - React
-  - Vue
-  - Google App Script
+    - Hooks
+    - Functional components
+    - State management tools
+    - CSS-in-JS
+  - Vue ~
+  - Google App Script (Google Workspace automation)
 - PHP 7+ 
   - ~ Laravel / Lumen / Symfony
 - Linux / OSX / Windows
@@ -29,8 +33,11 @@
 - Git
   - GitHub / Bitbucket/ GitLab
 - CSS
-  - Tailwind
-  - Css modules
+  - Frameworks
+    - Tailwind
+    - Bootstrap
+    - Bulma
+  - Css modules (JS)
   - SASS/SCSS
 - Python ~
 - Deployment
@@ -41,7 +48,7 @@
 - SQL
   - MySQL
   - MSSQL
-- Pascal .NET
+- Pascal .NET :)))
 
 ## Projects in which I participated
 
