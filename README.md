@@ -68,6 +68,8 @@
 | https://bestofjs.org                             |
 | https://www.smashingmagazine.com/                |
 
+<!--
+
 ## Projects in which I participated
 
 | Project                                                           | Role                                                                               |
@@ -83,3 +85,5 @@
 | [Art-Active](https://www.art-active.ru/)                          | PHP, Wordpress, support                                                            |
 | [Baksta](https://baksta.com/)                                     | Gatsby.js, React, SSG, DeFi, main frontend developer, Crypto                       |
 | [PrimeXBT Start](https://benevolent-crostata-7c7920.netlify.app/) | Gatsby.js, React,  SSG, DeFi, main frontend developer                              |
+
+-->
