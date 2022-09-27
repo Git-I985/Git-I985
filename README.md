@@ -67,6 +67,7 @@
 | https://www.digitalocean.com/community/tutorials |
 | https://bestofjs.org                             |
 | https://www.smashingmagazine.com/                |
+| https://doka.guide/                              |
 
 <!--
 
