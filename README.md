@@ -1,5 +1,9 @@
 # 💻 👋
 
+## Training
+- <a href="https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges">My solved TypeScript Types challenges</a>
+
+## Tools and technologies
 <table>
     <tbody>
         <tr>
