@@ -104,21 +104,21 @@
 | https://doka.guide/                              |
 
 <!--
-
 ## Projects in which I participated
 
-| Project                                                           | Role                                                                               |
-|-------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [Release Candidate](https://rc-technologies.com/)                 | main frontend developer                                                            |
-| [PrimeXBT](https://primexbt.com)                                  | frontend developer long support                                                    |
-| [TurboXBT](https://turboxbt.com)                                  | frontend developer, long support                                                   |
-| [PrimeAds](https://primeads.io/)                                  | main frontend developer                                                            | 
-| [amoCRM](https://www.amocrm.ru/)                                  | backend php developer, internal automation                                         |
-| [Whale Digiat Services](https://whale-ds.com/)                    | frontend support                                                                   |
-| [Motorola License](https://motorola-license.ru/)                  | PHP developer support, Tinkoff API integration                                     |
-| [RADIOSOFTWARE.ONLINE](https://radiosoftware.online/)             | PHP, Apache SSI (Server Side Includes, Yandex Metrika, Google Analytics, FTP Server |
-| [Art-Active](https://www.art-active.ru/)                          | PHP, Wordpress, support                                                            |
-| [Baksta](https://baksta.com/)                                     | Gatsby.js, React, SSG, DeFi, main frontend developer, Crypto                       |
-| [PrimeXBT Start](https://benevolent-crostata-7c7920.netlify.app/) | Gatsby.js, React,  SSG, DeFi, main frontend developer                              |
-
+| category                                                  | Project                                                                      | Role                                                                                          |
+|-----------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| DeFi, Crypto, Trading, huge trading platform content site | [PrimeXBT](https://primexbt.com)                                             | frontend developer long time support                                                          |
+| DeFi, Crypto, Trading                                     | [TurboXBT](https://turboxbt.com)                                             | frontend developer, long time support                                                         |
+| Marketing agency                                          | [PrimeAds](https://primeads.io/)                                             | main frontend developer                                                                       | 
+| DeFi, Crypto, Trading, trading platform content site      | [PXBT](https://pxbt.eu)                                                      | Gatsby.js, React,  SSG, DeFi, main frontend developer                                         |
+| DeFi, Crypto, Trading, Buy Crypto                         | [Baksta](https://baksta.com/)                                                | Gatsby.js, React, SSG, DeFi, project setup, Crypto                                            |
+| DeFi, Crypto, Trading, marketing landing                  | [PrimeXBT landing](https://start.primexbt.com/)                              | Gatsby.js, React,  SSG, DeFi, main frontend developer                                         |
+| DeFi, Crypto, Trading, marketing landing                  | [PrimeXBT landing Copy-Trading](https://start.primexbt.com/strategy-manager) | Gatsby.js, React,  SSG, DeFi, main frontend developer                                         |
+| Software develop agency landing                           | [Release Candidate](https://rc-technologies.com/)                            | main frontend developer                                                                       |
+| CRM                                                       | [amoCRM](https://www.amocrm.ru/)                                             | backend php developer, internal automation                                                    |
+| DeFi, Crypto, Trading                                     | [Whale Digital Services](https://whale-ds.com/)                              | frontend support                                                                              |
+| Motorola radio stations licenses shop                     | [Motorola License](https://motorola-license.ru/)                             | PHP developer support, Tinkoff bank private API integration                                   |
+| radio stations software FTP server frontend               | [RADIOSOFTWARE.ONLINE](https://radiosoftware.online/)                        | PHP, Apache SSI (Server Side Includes, Yandex Metrika, Google Analytics, FTP Server frontend) |
+| -                                                         | [Art-Active](https://www.art-active.ru/)                                     | PHP, Wordpress, support, freelance                                                            |
 -->
