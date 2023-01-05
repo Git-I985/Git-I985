@@ -3,6 +3,7 @@
 ## Training
 - <a href="https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges">My solved TypeScript Types challenges</a>
 - <a href="https://leetcode.com/Git-I985/">LeetCode profile</a>
+- <a href="https://gist.github.com/Git-I985">Gist</a>
 
 ## Tools and technologies
 <table>
