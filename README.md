@@ -5,6 +5,9 @@
 - <a href="https://leetcode.com/Git-I985/">LeetCode profile</a>
 - <a href="https://gist.github.com/Git-I985">Gist</a>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Git-I985?theme=dark&font=Open%20Sans)
+
+<!--
 ## Tools and technologies
 <table>
     <tbody>
@@ -87,6 +90,8 @@
     - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) extension
     - React Chrome Dev Tools
 - iTerm
+
+-->
 
 ## Favorite resourses
 
