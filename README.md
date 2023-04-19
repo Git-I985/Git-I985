@@ -109,6 +109,7 @@
 | https://bestofjs.org                             |
 | https://www.smashingmagazine.com/                |
 | https://doka.guide/                              |
+| https://www.builder.io/blog                      |
 
 <!--
 ## Projects in which I participated
