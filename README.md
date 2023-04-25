@@ -7,6 +7,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Git-I985?theme=dark&font=Open%20Sans)
 
+[![user:16434729's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/16434729?theme=default)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
 <!--
 ## Tools and technologies
 <table>
