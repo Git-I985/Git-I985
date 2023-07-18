@@ -1,29 +1,67 @@
-# 💻 👋
-
-[![1](https://github.com/Git-I985/Git-I985/assets/54438967/8bd42881-f867-4edb-a60b-f6305000fcbf)](https://gist.github.com/Git-I985)
-[![2](https://github.com/Git-I985/Git-I985/assets/54438967/21ee9236-0c3f-497c-ab50-9c842615f36b)](https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges)
-[![3](https://github.com/Git-I985/Git-I985/assets/54438967/0c15fd94-67c6-4100-bf9c-60d8104e19f5)](https://leetcode.com/Git-I985/)
-[![4](https://github.com/Git-I985/Git-I985/assets/54438967/a8e1f939-0725-463d-8565-a768ae0f5f46)](https://stackoverflow.com/users/16434729/young-developer)
-
+[![1](./ContentDialog-3.svg)](https://gist.github.com/Git-I985)
+[![2](./ContentDialog.svg)](https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges)
+[![3](./ContentDialog-1.svg)](https://leetcode.com/Git-I985/)
+[![4](./ContentDialog-2.svg)](https://stackoverflow.com/users/16434729/young-developer)
 
 ## Favorite resourses
 
-| resourse                                         |
-|--------------------------------------------------|
-| https://dev.to/                                  |
-| https://habr.com/                                |
-| https://blog.logrocket.com/                      |
-| https://proglib.io/                              |
-| https://web.dev/                                 |
-| https://medium.com/                              |
-| https://www.freecodecamp.org/                    |
-| https://www.codecademy.com/                      |
-| https://www.digitalocean.com/community/tutorials |
-| https://bestofjs.org                             |
-| https://www.smashingmagazine.com/                |
-| https://doka.guide/                              |
-| https://www.builder.io/blog                      |
-
+<table>
+            <tbody>
+                <tr>
+                    <td><a href="https://dev.to/">https://dev.to/</a></td>
+                    <td>
+                        <a href="https://www.freecodecamp.org/"
+                            >https://www.freecodecamp.org/</a
+                        >
+                    </td>
+                </tr>
+                <tr>
+                    <td><a href="https://habr.com/">https://habr.com/</a></td>
+                    <td>
+                        <a href="https://www.codecademy.com/"
+                            >https://www.codecademy.com/</a
+                        >
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://blog.logrocket.com/"
+                            >https://blog.logrocket.com/</a
+                        >
+                    </td>
+                    <td>
+                        <a href="https://www.digitalocean.com/community/tutorials"
+                            >https://www.digitalocean.com/community/tutorials</a
+                        >
+                    </td>
+                </tr>
+                <tr>
+                    <td><a href="https://proglib.io/">https://proglib.io/</a></td>
+                    <td><a href="https://bestofjs.org">https://bestofjs.org</a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://web.dev/">https://web.dev/</a></td>
+                    <td>
+                        <a href="https://www.smashingmagazine.com/"
+                            >https://www.smashingmagazine.com/</a
+                        >
+                    </td>
+                </tr>
+                <tr>
+                    <td><a href="https://medium.com/">https://medium.com/</a></td>
+                    <td><a href="https://doka.guide/">https://doka.guide/</a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://www.builder.io/blog"
+                            >https://www.builder.io/blog</a
+                        >
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
 
 <!--
 ## Projects in which I participated
