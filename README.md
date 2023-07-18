@@ -2,6 +2,7 @@
 [![2](./ContentDialog.svg)](https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges)
 [![3](./ContentDialog-1.svg)](https://leetcode.com/Git-I985/)
 [![4](./ContentDialog-2.svg)](https://stackoverflow.com/users/16434729/young-developer)
+[![4](./ContentDialog-4.svg)]([https://stackoverflow.com/users/16434729/young-developer](https://ru.hexlet.io/u/edw4rdk/courses))
 
 ## Favorite resourses
 
