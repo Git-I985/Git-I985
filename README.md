@@ -3,6 +3,7 @@
 [![3](./ContentDialog-1.svg)](https://leetcode.com/Git-I985/)
 [![4](./ContentDialog-2.svg)](https://stackoverflow.com/users/16434729/young-developer)
 [![4](./ContentDialog-4.svg)](https://ru.hexlet.io/u/edw4rdk/courses)
+[![4](./ContentDialog-5.svg)](https://t.me/Kalihman)
 
 ## Favorite resourses
 
