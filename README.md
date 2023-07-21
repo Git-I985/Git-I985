@@ -1,9 +1,9 @@
-[![1](./ContentDialog-3.svg)](https://gist.github.com/Git-I985)
-[![2](./ContentDialog.svg)](https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges)
-[![3](./ContentDialog-1.svg)](https://leetcode.com/Git-I985/)
-[![4](./ContentDialog-2.svg)](https://stackoverflow.com/users/16434729/young-developer)
-[![4](./ContentDialog-4.svg)](https://ru.hexlet.io/u/edw4rdk/courses)
-[![4](./ContentDialog-5.svg)](https://t.me/Kalihman)
+[![1](./gist.svg)](https://gist.github.com/Git-I985)
+[![2](./typescript.svg)](https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges)
+[![3](./leetcode.svg)](https://leetcode.com/Git-I985/)
+[![4](./stackoverflow.svg)](https://stackoverflow.com/users/16434729/young-developer)
+[![4](./hexlet.svg)](https://ru.hexlet.io/u/edw4rdk/courses)
+[![4](./telegram.svg)](https://t.me/Kalihman)
 
 ## Favorite resourses
 
@@ -72,7 +72,7 @@
 |-----------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | DeFi, Crypto, Trading, huge trading platform content site | [PrimeXBT](https://primexbt.com)                                             | frontend developer long time support                                                          |
 | DeFi, Crypto, Trading                                     | [TurboXBT](https://turboxbt.com)                                             | frontend developer, long time support                                                         |
-| Marketing agency                                          | [PrimeAds](https://primeads.io/)                                             | main frontend developer                                                                       | 
+| Marketing agency                                          | [PrimeAds](https://primeads.io/)                                             | main frontend developer                                                                       |
 | DeFi, Crypto, Trading, trading platform content site      | [PXBT](https://pxbt.eu)                                                      | Gatsby.js, React,  SSG, DeFi, main frontend developer                                         |
 | DeFi, Crypto, Trading, Buy Crypto                         | [Baksta](https://baksta.com/)                                                | Gatsby.js, React, SSG, DeFi, project setup, Crypto                                            |
 | DeFi, Crypto, Trading, marketing landing                  | [PrimeXBT landing](https://start.primexbt.com/)                              | Gatsby.js, React,  SSG, DeFi, main frontend developer                                         |
