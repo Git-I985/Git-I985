@@ -1,4 +1,4 @@
-[![1](https://www.codewars.com/users/Git-I985/badges/large)]()
+[//]: # ([![1]&#40;https://www.codewars.com/users/Git-I985/badges/large&#41;]&#40;&#41;)
 
 
 [![1](./codewars.svg)](https://www.codewars.com/users/Git-I985)
