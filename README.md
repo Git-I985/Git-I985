@@ -1,6 +1,7 @@
 [![1](https://www.codewars.com/users/Git-I985/badges/large)]()
 
 
+[![1](./codewars.svg)](https://www.codewars.com/users/Git-I985)
 [![1](./gist.svg)](https://gist.github.com/Git-I985)
 [![2](./typescript.svg)](https://github.com/issues?q=is%3Aissue+author%3AGit-I985+repo%3Atype-challenges%2Ftype-challenges)
 [![3](./leetcode.svg)](https://leetcode.com/Git-I985/)
